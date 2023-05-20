@@ -39,6 +39,7 @@ h3{
 
 .middle-container{
     background-color: #E8F9FD;
+    padding-top: 0%;
     
 }
 
@@ -73,6 +74,12 @@ h3{
 .mountain{
     position: relative;
     top: 5.5px;
+}
+
+.heading_curve{
+    margin: 0;
+    padding: 0;
+    background-color:#E8F9FD;
 }
 
 .profile-pic{
